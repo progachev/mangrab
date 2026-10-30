@@ -1,0 +1,17 @@
+{
+  "lastMangaUrl": "https://mangalib.org/ru/manga/1234--example",
+  "outputDir": "C:\\Users\\$USERNAME$\\Download",
+  "lang": "ru",
+  "sources": [
+    "https://img3.cdnlibs.org",
+    "https://img4.cdnlibs.org",
+    "https://crops.mangalib.me",
+    "https://img4.mixlib.me",
+    "https://img5.mixlib.me",
+    "https://img5.cdnlibs.org",
+    "https://imglib.info"
+  ],
+  "sourcesOff": [
+    "https://img3.mixlib.me"
+  ]
+}
